@@ -10,7 +10,6 @@ int main()
 {
     printf("Calculation started!\n");
     fopen_s(&fptr, "1_inputdata.txt", "r");
-    int ones = 0;
     int i = 0;
     char first_digit = 0;
     char last_digit = 0;
