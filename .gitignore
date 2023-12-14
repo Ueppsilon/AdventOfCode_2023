@@ -1,6 +1,7 @@
 # Ignore everything
 *
 # Recursively allow files under subtree
+!*.md
+!*/
 !**/*.cpp
-!**/*.txt
 !.gitignore
