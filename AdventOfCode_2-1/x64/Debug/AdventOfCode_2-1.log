@@ -1,3 +1,0 @@
-﻿  AdventOfCode_2-1.cpp
-C:\Users\Kai\AppData\Local\ownCloudSync\AdventOfCode\AdventOfCode_2-1\AdventOfCode_2-1.cpp(89,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  AdventOfCode_2-1.vcxproj -> C:\Users\Kai\AppData\Local\ownCloudSync\AdventOfCode\AdventOfCode_2-1\x64\Debug\AdventOfCode_2-1.exe
